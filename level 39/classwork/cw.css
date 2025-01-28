@@ -1,0 +1,6 @@
+ul {
+    margin-left: 50px;
+    list-style-image: url(image.png);
+    margin: 500px 500px 500px 500px;
+    font-family: sans;
+}
