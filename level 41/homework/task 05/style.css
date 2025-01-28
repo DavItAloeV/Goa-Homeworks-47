@@ -1,0 +1,31 @@
+html{
+    background-color: rgb(126, 18, 126);
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(38, 128, 128);;
+    margin: 0;
+    border: 1px solid;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th , td {
+    background-color: rgb(255, 255, 255);
+}
+table th , table td {
+    background-color: rgb(202, 202, 202);
+    border: 1px solid rgb(43, 43, 43);
+    color: rgb(0, 0, 0);
+}

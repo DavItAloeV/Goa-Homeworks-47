@@ -1,0 +1,44 @@
+html {
+    background-color: rgb(58, 58, 58);
+}
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.standart {
+    background-color: #b31313;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    
+}
+.premium {
+    background-color: #c42047;
+    padding: 20px;
+}
+.price {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+u {
+   list-style: none; 
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+button {
+    background-color: green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.basic{
+    background-color: rgb(192, 165, 13);
+    padding: 20px;
+}
